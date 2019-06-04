@@ -21,7 +21,7 @@
 ## 사용한 공공데이터 
 [한국공항공사_운송용_항공기_주요_제원_20180521](https://github.com/ijcho135/python2019/blob/master/%ED%95%9C%EA%B5%AD%EA%B3%B5%ED%95%AD%EA%B3%B5%EC%82%AC_%EC%9A%B4%EC%86%A1%EC%9A%A9_%ED%95%AD%EA%B3%B5%EA%B8%B0_%EC%A3%BC%EC%9A%94_%EC%A0%9C%EC%9B%90_20180521.csv)
 ## 영상
-* [영상 보기](https://github.com/ijcho135/python2019/blob/master/term.py) 
+* [영상 보기](https://github.com/ijcho135/python2019/blob/master/TERM.mp4) 
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/ijcho135/python2019/blob/master/term.py) 
