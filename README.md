@@ -9,7 +9,7 @@
 ## 프로젝트 개요
 항공기에 대한 주요제원을 알아보고, 여러 항공기를 제원에 대해 비교하는 그래프를 그려본다.
 ## 사용한 공공데이터 
-[데이터보기](https://github.com/cybermin/python2019/blob/master/%EB%B6%80%EC%82%B0%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC_%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%EC%97%AD%EC%82%AC%EC%A0%95%EB%B3%B4_20190520.csv)
+[데이터보기](https://github.com/ijcho135/python2019/blob/master/%ED%95%9C%EA%B5%AD%EA%B3%B5%ED%95%AD%EA%B3%B5%EC%82%AC_%EC%9A%B4%EC%86%A1%EC%9A%A9_%ED%95%AD%EA%B3%B5%EA%B8%B0_%EC%A3%BC%EC%9A%94_%EC%A0%9C%EC%9B%90_20180521.csv)
 
 ## 소스
 * [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
